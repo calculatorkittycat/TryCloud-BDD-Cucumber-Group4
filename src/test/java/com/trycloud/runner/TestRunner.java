@@ -28,7 +28,7 @@ import org.junit.runner.RunWith;
         } ,
 
 
-        tags = "@wang",
+        tags = "@smoke",
         dryRun = true
 
 

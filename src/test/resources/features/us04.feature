@@ -1,4 +1,4 @@
-
+@smoke
 Feature: As a user, I should be able to add file to favorites
 
 Scenario Outline: user can add file to favorites

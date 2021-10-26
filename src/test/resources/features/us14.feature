@@ -1,4 +1,4 @@
-@us14
+@smoke
 Feature: As a user, I should be able to access search any item/ users from the homepage.
 
   Scenario Outline: whatever

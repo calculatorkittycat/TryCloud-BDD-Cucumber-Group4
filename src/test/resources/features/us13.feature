@@ -1,5 +1,5 @@
-@test@ui
-Feature: As a user, I should be able to access to Contacts module.
+@smoke
+Feature: As a user, I should be able to access to Contacts module. -ivan
 
   Scenario Outline:
     Given user is on the login page

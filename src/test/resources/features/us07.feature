@@ -1,4 +1,4 @@
-@us7
+@smoke
 Feature: Story: As a user, I should be able to access to Files module.
 
 Scenario: verify users can delete a file/folder.

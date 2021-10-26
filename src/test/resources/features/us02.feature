@@ -4,7 +4,7 @@
     # all except for talk which href value washttp://qa2.trycloud.net/index.php/apps/spreed/
     #whereas if the link was formatted like the others, being consistent with their link text
     # and link value it would have been http://qa2.trycloud.net/index.php/apps/talk/
-  @test@ui
+  @smoke
   Feature: As a user, I should be access all the main modules of the app.
 
     Scenario Outline: Verify modules

@@ -1,6 +1,7 @@
+@smoke
 Feature: Story: As a user, I should be able to access to Files module.
 
-    @And
+
     Scenario: verify users can create a folder
         Given Login as a user
         When Choose a folder from the page
